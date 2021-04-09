@@ -4,7 +4,7 @@ This is a fork from [https://github.com/stemmlerjs/simple-typescript-starter](ht
 
 ### Features
 
-- [Features from original repo](https://github.com/dami2/simple-typescript-starter#features)
+- [Features from original repo](https://github.com/stemmlerjs/simple-typescript-starter#features)
 - Commit conventions with [commitlint](https://commitlint.js.org)
 - Automated version management with [semantic-release](https://semantic-release.gitbook.io/semantic-release/) (See [Using semantic-release with GitHub Actions](https://github.com/semantic-release/semantic-release/blob/1405b94296059c0c6878fb8b626e2c5da9317632/docs/recipes/github-actions.md) )
 
